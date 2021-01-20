@@ -1,0 +1,7 @@
+Zadatak 2.
+
+Potrebno je napraviti HTML5 dokument s tražilicom stiliziranom prema screenshotu "zadatak-2.png" koristeći Bootstrap i jQuery. "Tip nekretnine" je HTML element "select", dok je polje "Upišite grad ili više gradova ili lokaciju" multiselect s autocomplete funkcionalnošću. Klikom na "Otvorite detaljnu pretragu" tražilica se mora "rastvoriti" odnosno "povisiti" i prikazati par dodatnih elementa - select s mogućnošću višestrukog odabira, 3 radio buttona i 2 checkboxa.
+
+U datoteci "data.json" se nalaze vrijednosti koje treba iskoristiti za autocomplete.
+
+U zadatku je, uz jQuery, dopušteno koristiti bilo koji dodatni JS plugin.
